@@ -1,0 +1,17 @@
+git commit -m "-initial mommit"
+
+git log
+
+git status
+
+git add index.html
+
+git add .
+
+git config --global user.name "nipuna deshan"
+
+git config --global user.email "ndsf@gmail.com"
+
+git branch
+
+git branch develop
